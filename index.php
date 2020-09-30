@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lisya cantik</title>
-    <link rel="stylesheet" href="lisya.css">
+    <title>Lisya</title>
+    <link rel="stylesheet" href="https://web-sanilisia.herokuapp.com/lisya.css">
 <head>
 <body>
 
