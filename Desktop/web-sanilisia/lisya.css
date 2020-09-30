@@ -1,0 +1,56 @@
+
+ body {
+	font: 15px/25px, sans-serif;
+	background-color: #eaeaea;
+	color: #333;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: #fff;
+}
+
+.header {
+	padding: 50px;
+	padding-bottom: 10px;
+
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px;
+	margin: auto;
+}
+
+.hero {
+	height: 400px;
+	background-image: url(po.jpg);
+	background-size: cover;
+	background-position: 0-20px;
+	border-top: 5px solid lightskyblue;
+	border-bottom:5px solid lightskyblue;
+
+}
+
+.content {
+	padding: 5px;
+}
+
+.content h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
